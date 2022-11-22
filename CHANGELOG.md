@@ -1,3 +1,7 @@
+# v1.0.1 - 20221122
+* [rs-06] Remove text nal on sample file
+[PR#07] (https://github.com/rs-nhattt/git-practice-merge-v2/pull/7)
+
 # v1.0.0 - 20221122
 
 * [rs-04] Remove text est on sample file
